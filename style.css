@@ -15,6 +15,9 @@ main{
   text-align: centre;
   margin: 10px;
   padding: 20px 20px 20px 20px;
+  border-radius: 10px;
+  overflow: hidden
+  background-color: #eaddcf;
 }
 h1{
   color: #18acc2;
@@ -22,8 +25,3 @@ h1{
   letter-spacing: 3px;
 }
 
-div{
-  background-color: #eaddcf;
- 
-  
-}
