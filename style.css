@@ -16,8 +16,15 @@ main{
   margin: 10px;
   padding: 20px 20px 20px 20px;
   border-radius: 10px;
-  overflow: hidden
+  overflow: hidden;
   background-color: #eaddcf;
+}
+
+.one{
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  overflow: hidden;
 }
 h1{
   color: #18acc2;
