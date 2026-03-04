@@ -17,7 +17,7 @@ main{
   padding: 20px 20px 20px 20px;
   border-radius: 10px;
   overflow: hidden;
-  background-color: #eaddcf;
+ 
 }
 
 .one{
@@ -41,7 +41,7 @@ main{
 
 .quote{
   font-style: italics;
-  font-size: 2rem;
+  font-size: 20px;
   line-hight: 4px;
   
 }
