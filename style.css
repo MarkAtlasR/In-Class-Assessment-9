@@ -6,6 +6,12 @@
 html{
   background-color: #f9f4ef;
   font-family: Tahoma, san-serif;
-  font-size: 20px;
+  font-size: 16px;
   color: #020826;
+}
+
+h1{
+  color: #18acc2;
+  font-transform: uppercase;
+  letter-spacing: 2rem;
 }
