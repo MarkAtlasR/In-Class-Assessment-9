@@ -33,9 +33,21 @@ main{
  padding: 20px 20px 20px 20px;
  border-radius: 10px; 
 }
-h1{
+.h1{
   color: #18acc2;
   font-transform: uppercase;
   letter-spacing: 3px;
+}
+
+.quote{
+  font-style: italics;
+  font-size: 2rem;
+  line-hight: 4px;
+  
+}
+
+.author{
+  font-weight: bold;
+  color: #8c7851;
 }
 
