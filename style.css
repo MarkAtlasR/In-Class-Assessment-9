@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 html{
@@ -10,6 +11,11 @@ html{
   color: #020826;
 }
 
+main{
+  text-align: centre;
+  margin: 10px;
+  padding: 20px 20px 20px 20px;
+}
 h1{
   color: #18acc2;
   font-transform: uppercase;
@@ -18,6 +24,6 @@ h1{
 
 div{
   background-color: #eaddcf;
-  box-sizing: content-box;
+ 
   
 }
