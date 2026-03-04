@@ -2,3 +2,10 @@
   margin: 0;
   padding: 0;
 }
+
+html{
+  background-color: #f9f4ef;
+  font-family: Tahoma, san-serif;
+  font-size: 20px;
+  color: #020826;
+}
