@@ -37,8 +37,9 @@ main{
 }
 .h1{
   color: #18acc2;
-  font-transform: uppercase;
+  text-transform: uppercase;
   letter-spacing: 3px;
+  font-size:27px;
 }
 
 .quote{
